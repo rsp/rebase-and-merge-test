@@ -1,1 +1,2 @@
 require('./a');
+require('./b');
