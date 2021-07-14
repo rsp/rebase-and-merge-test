@@ -1,0 +1,20 @@
+{
+  "name": "rebase-and-merge-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/rebase-and-merge-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsp/rebase-and-merge-test/issues"
+  },
+  "homepage": "https://github.com/rsp/rebase-and-merge-test#readme"
+}
