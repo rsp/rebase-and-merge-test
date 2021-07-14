@@ -1,5 +1,5 @@
-const x = () => console.log('ok');
+const y = () => console.log('ok');
 
 module.exports = {
-  x,
+  y,
 };
