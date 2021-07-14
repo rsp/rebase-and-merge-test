@@ -1,3 +1,3 @@
-const { x } = require('./x');
+const { y } = require('./x');
 
-x();
+y();
